@@ -1,0 +1,283 @@
+/* navigation section */
+.logo{
+    height:6vh;
+}
+/* api development */
+.halign{
+    margin-left: 10rem;
+    margin-top:7rem;
+}
+.headdata{
+    display:flex;
+    flex-direction: column;
+    align-items: flex-start;
+    margin-left:10rem;
+}
+.head{
+    display: flex;
+    flex-direction: column;
+}
+.horizontal_line_green{
+    border:1.6px solid rgb(65, 192, 65);
+    width:63px;
+    display:block;
+    margin-left:22%;
+    margin-top:1rem;
+}
+.desc{
+    font-size:20px;
+    margin-top:2rem;
+}
+.btn{
+    margin-left: 10rem;
+}
+.api_image{
+    margin-left: 40%;
+    margin-bottom: auto;
+}
+/* api specification-1 */
+.container1 .card{
+    background: rgb(235, 233, 233);
+    height: 700px;
+    max-height: 500px;
+    position: relative;
+    top: 20px;
+    margin-bottom: 30px;
+}
+.container1 .card:hover{
+    background: white;
+    border-top: #63db2a solid 10px;
+}
+/* api specification-2 */
+.container2 h6,p{
+    margin-top: 5%;
+    text-align: center;
+}
+.container2 p{
+    font-size: 28px;
+    margin-top: 2%;
+}
+.companylogo{
+    margin: 160px;
+}
+/* api specification-3 */
+.container3 h3{
+    text-align: center;
+    margin-top: 8%;
+}
+.container3 p{
+    font-size: 20px;
+}
+.read_more{
+    color: black;
+    text-decoration: none;
+}
+.read_more:hover{
+    text-decoration: none;
+}
+.read_hl{
+    border: 1.6px solid #63db2a;
+    display: block;
+    width:20%;
+    margin-left: 40%;
+}
+.halign1{
+    margin-left: 7rem;
+    margin-top:7rem;
+}
+.desc1{
+    margin-left: 7rem;
+    margin-top:1rem;
+}
+.learn{
+     margin-left: 7rem;
+     color: black;
+}
+.learn_hl{
+    border: 1.6px solid #c2c4c2;
+    display: block;
+    width:9%;
+    margin-left: 13%;
+    margin-bottom: 5%;
+}
+.smartbear_hl{
+    border: 1.6px solid #c7c9c7;
+    display: block;
+    width:20%;
+    margin-left: 19%;
+    margin-bottom: 5%;
+}
+.halign2{
+     margin-left: 7rem;
+}
+.learn_hl1{
+    border: 1.6px solid #c2c4c2;
+    display: block;
+    width:12%;
+    margin-left: 19%;
+}
+.imge{
+    margin-left: 40%;
+}
+.imge1{
+    margin-left: 7rem;
+    margin-top: 3rem;
+}
+.imge2{
+    margin-left: 25rem;
+    margin-top: 3rem;
+}
+.container4{
+    margin-top: 4%;
+    margin-bottom: 5%;
+}
+.container4 .card-text .tick{
+    opacity:0.6;
+}
+.container4 .card-text{
+    font-size: 18px;
+    text-align: left;
+    margin-left: 5%;
+}
+ .container4 ul{
+  list-style: none;
+}
+.container4 .tick li:before {
+  content: '✓';
+  color: #63db2a;
+}
+/* url section */
+ .text-green{
+    color: rgb(79, 182, 79);
+}
+.get{
+    padding:8.5px 20px;
+    background-color:#173647;
+    color:white;
+    border-radius: .1rem;
+    border-top-left-radius:0.4rem;
+    border-bottom-left-radius:0.4rem;
+}
+.send{
+    padding:8.5px 40px;
+    background-color:#63db2a;
+    color:white;
+    border-top-right-radius:0.4rem;
+    border-bottom-right-radius:0.4rem;
+}
+input{
+    width:50rem;
+    height: 3rem;
+}
+.url{
+    margin-left: 18%;
+    display: flex;
+    border-radius:1rem ;
+    margin-top: 4%;
+}
+.col-12{
+    background-color: rgb(235, 235, 235);
+}
+.mt-3{
+    opacity: 0.7;
+}
+/* footer section */
+.footer1{
+    margin-top: 2rem;
+    background-image: url(./images/footbg.PNG);
+    height:60vh;
+    font-size: 20px;
+}
+.block1 li{
+    list-style: none;
+    color:white;
+}
+.block1{
+    margin-top:2rem;
+}
+.footer2{
+    background-color:#173647;
+    color:white;
+    height: 60vh;
+}
+.foot2{
+    padding-left:7rem;
+}
+.tabml,.tabr,.tabm{
+    padding-left:10px;
+    padding-right:100px;
+    padding-top:5px;
+    padding-bottom: 5px;
+}
+.block2{
+    padding-top:3rem;
+    padding-bottom:3rem;
+}
+.tabml{
+    margin-left:7%;
+}
+
+.footlogo{
+    height:5vh;
+    padding-left:110px;
+    margin-top:5%;
+}
+.footer3{
+    background-color:rgb(44, 41, 41);
+    overflow: hidden;
+    height: 20vh;
+    color:white;
+}
+.footer_table,.footer_row,.footer_data{
+    color:white;
+    padding:0px 13px;
+}
+.footer_table{
+    margin-left:6rem;
+}
+.vertical_linestr{
+    border:1px solid darkgrey; 
+}
+.footer_menu{
+    text-decoration: none;
+    color:white;
+}
+.vertical_linefoot{
+    border:1px solid rgb(221, 100, 19);
+    width:80px;
+    display:block;
+    margin-left:7.5%;
+    margin-top: 2rem;
+}
+.footer_link{
+    display:inline-flex ;
+    background-color:white ;
+    font-size:1.5rem ;
+    border-radius:.5rem;
+    color:black;
+    padding: 0.7rem;
+    margin: 0 var(--mb-1);
+}
+.footer_info ul{
+    color: orange;
+}
+.dfl{
+    display:flex;
+}
+.aboutfl{
+    display: flex;
+    flex-direction: column;
+    margin-left:20rem;
+}
+.or{
+    color:rgb(221, 100, 19);
+    line-height: 2rem;;
+}
+.wl{
+    color:white;
+    line-height: 2rem;
+}
+.vertical_footline{
+    border:1px solid darkgrey;
+    height:32vh;
+}

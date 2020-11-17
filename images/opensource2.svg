@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="212.173" height="212.173" viewBox="0 0 212.173 212.173">
+  <defs>
+    <style>
+      .a {
+        fill: #f7f8f8;
+      }
+
+      .b {
+        opacity: 0.4;
+      }
+
+      .c, .d, .e {
+        fill: none;
+        stroke-linecap: round;
+        stroke-miterlimit: 10;
+      }
+
+      .c, .e {
+        stroke: #515050;
+      }
+
+      .c {
+        stroke-width: 0.75px;
+      }
+
+      .d {
+        stroke: #4a494d;
+        stroke-width: 2px;
+      }
+    </style>
+  </defs>
+  <title>SW</title>
+  <g>
+    <circle class="a" cx="145.661" cy="167.139" r="20.616"/>
+    <g class="b">
+      <circle class="c" cx="145.661" cy="167.093" r="20.616"/>
+    </g>
+    <polyline class="d" points="136.535 168.966 142.478 174.91 155.612 161.776"/>
+  </g>
+  <g>
+    <line class="e" x1="131.262" y1="141.855" x2="131.293" y2="136.595"/>
+    <polyline class="e" points="80.537 136.595 80.537 150.11 105.83 161.313 121.355 153.846"/>
+    <line class="e" x1="105.915" y1="134.779" x2="105.915" y2="160.431"/>
+    <polyline class="e" points="92.108 111.654 72.776 118.295 80.562 124.706 93.202 120.124"/>
+    <polygon class="e" points="98.138 140.363 72.294 129.974 80.506 124.722 105.872 134.595 98.138 140.363"/>
+    <polygon class="e" points="113.564 140.363 139.409 129.974 131.197 124.722 105.83 134.595 113.564 140.363"/>
+    <polyline class="e" points="118.978 111.526 138.907 118.268 131.121 124.681 118.316 120.043"/>
+    <g>
+      <line class="e" x1="100.509" y1="99.82" x2="100.509" y2="123.331"/>
+      <polyline class="e" points="103.75 102.447 100.605 98.949 97.268 102.449"/>
+    </g>
+    <g>
+      <line class="e" x1="111.223" y1="123.243" x2="111.223" y2="99.732"/>
+      <polyline class="e" points="107.983 120.616 111.127 124.114 114.464 120.614"/>
+    </g>
+  </g>
+</svg>
